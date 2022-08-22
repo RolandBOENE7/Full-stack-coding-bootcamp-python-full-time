@@ -1,0 +1,65 @@
+body{
+    font-family: serif;
+    background-color:white;
+
+
+}
+
+div, h1{
+    text-align: left;
+}
+
+h1{
+    color: black;
+    font-size: 30px;
+
+}
+div{
+    text-align: center;
+}
+
+
+table,th
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+   border-collapse: collapse;
+}
+
+th{
+    text-align: center;
+}
+
+
+
+.chat{
+    height:auto;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:red;
+    text-align: center;
+}
+.lion{
+    height:auto;
+    width: 400px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:red;
+    text-align: center;
+    }
+
+    #ident
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(239, 83, 83);
+    text-align: center;
+    color:red;
+
+}
